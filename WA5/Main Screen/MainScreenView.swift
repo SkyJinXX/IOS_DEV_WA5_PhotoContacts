@@ -4,7 +4,7 @@
 import UIKit
 
 class MainScreenView: UIView {
-
+    // test for git
     var tableViewContacts: UITableView!
     override init(frame: CGRect) {
         super.init(frame: frame)
